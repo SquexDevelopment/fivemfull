@@ -2,7 +2,7 @@ This installer is for FiveM Artifacts & Phpmyadmin
 
 You just had to write this command via ssh client.
 
-bash <(curl -s https://raw.githubusercontent.com/Squex0978/fivemfull/main/all.sh)
+bash <(curl -s https://raw.githubusercontent.com/Squex0978/fivemfull/main/full.sh)
 
 After this phpmyadmin login data u will find in sftp /root on texdokument
 
